@@ -1,0 +1,6 @@
+
+CMAKE_MINIMUM_REQUIRED( VERSION 3.1 )
+
+PROJECT( InverseKinematic )
+
+ADD_SUBDIRECTORY( src )
